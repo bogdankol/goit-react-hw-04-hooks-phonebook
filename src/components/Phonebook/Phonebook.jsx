@@ -1,5 +1,5 @@
 import s from "./Phonebook.module.css";
-import { Component, useState, useEffect, useRef } from "react";
+import {  useState, useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 import shortid from "shortid";
 import ContactForm from "./ContactForm";
